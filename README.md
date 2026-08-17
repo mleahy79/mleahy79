@@ -57,4 +57,4 @@ Frontend Developer
 
 ### 📈 GitHub Status & Navigation
 * 📦 **[Pygame codebase](https://github.com/mleahy79/starfighter)** to see local state loops and vector mechanics.
-* 🛡️ **Try to break my live portfolio chat** — it welcomes your best jailbreaks.
+* 🛡️ **Try to break my live portfolio chat** it welcomes your best jailbreaks.
