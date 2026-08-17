@@ -26,35 +26,35 @@ Frontend Developer
 
 ### 🚀 Featured Shipped Products
 
-#### 🔍 Vestige 
-*Enterprise-Grade AI Code Auditing & Due Diligence Tool*  
-👉 **[Live App](https://vercel.app)**
-* **LLM Pipeline Integration:** Ingests and parses raw Git commits and diffs using **Claude Opus 4.6** to run static security analysis for deep private equity code validation.
-* **Inference UI & Anchored Findings:** Engineered a zero-bloat dashboard displaying tiered confidence markers and line-by-line code view portals, enabling seamless human sign-off on automated findings.
-* **Enterprise Roadmap:** Architecting a structural pivot from rate-limited repository API polling to a scalable "Clone-Parse-Destroy" local disk caching framework to minimize token overhead on massive repos.
+#### 🔍 Vestige
+*AI Code Auditing & Due Diligence Tool*
+👉 **[Live App](https://vestige-azure.vercel.app)**
+* **LLM Pipeline Integration:** Ingests and parses raw Git commits and diffs using **Claude** to run static security analysis for private equity code review.
+* **Findings UI:** Dashboard displaying tiered confidence markers and line-by-line code views, supporting human sign-off on automated findings.
+* **Roadmap:** Moving from rate-limited repository API polling to a local disk caching approach ("clone, parse, destroy") to cut token overhead on large repos.
 
 #### 🩺 SustainRx Engine
-*Clinical Medical Triage for Codebase Health*
-* **Clinical Diagnostics Persona:** Programmed a highly customized, specialized AI auditing variant that reads deep repository histories and maps them to a stylized "Clinical Patient Overview" narrative.
-* **Dependency Telemetry:** Automatically tracks and flags dependency bottlenecks—such as identifying critical Next.js CVE upgrades conflicting with Vercel Turbopack build constraints.
+*Codebase Health Triage*
+* **Diagnostic Persona:** A configured AI auditing variant that reads repository histories and maps them to a "clinical patient overview" narrative.
+* **Dependency Tracking:** Flags dependency conflicts, such as Next.js CVE upgrades that clash with Vercel Turbopack build constraints.
 
-#### 🛡️ Adversarial-Tested Portfolio Companion
-*Hardened, Prompt-Defensive AI Chat Workspace*
-* **Defensive Prompt Engineering:** Built a public-facing conversational portfolio engine with custom system prompt safeguards designed to prevent prompt injection and data leaks.
-* **Empirical Red-Teaming:** Subjected the system to sustained multi-user gaslighting and jailbreak scripts (e.g., trying to force false historical timelines); successfully maintained strict persona alignment under sustained spoofing.
+#### 🛡️ Portfolio Chat Workspace
+*Prompt-Defensive AI Chat*
+* **Prompt Safeguards:** Public-facing conversational portfolio with system-prompt defenses against prompt injection and data leaks.
+* **Red-Teaming:** Tested against multi-user jailbreak and spoofing attempts (e.g., forcing false historical timelines); held persona alignment under those attempts.
 
-#### 🌌 Custom 2D Space Shooter
-*Full-Cycle Game Architecture built entirely from scratch in Python*
-* **Custom Game Engine:** Programmed the complete game loop, multi-state management systems (start, pause, game-over screens), and algorithmic vector flight paths for enemy waves.
-* **Asset & Audio Pipeline:** Hand-illustrated 100% of visual sprites and power-up graphics while composing and integrating dynamic, state-triggered audio soundtracks (`starfight.mp3`, `deathmarch.mp3`).
+#### 🌌 2D Space Shooter
+*Game built from scratch in Python*
+* **Game Engine:** Complete game loop, multi-state management (start, pause, game-over), and vector flight paths for enemy waves.
+* **Asset & Audio:** Illustrated all sprites and power-up graphics; composed and integrated state-triggered audio (`starfight.mp3`, `deathmarch.mp3`).
 
-#### 🏆 Skinstric AI Specifications
+#### 🏆 Skinstric AI
 *Frontend Capstone Project*
-* **Perfect Technical Evaluation:** Earned a flawless score from industry mentors by hitting 100% of strict production-level features and frontend alignment criteria.
-* **Pixel-Perfect Translation:** Navigated Figma mockups to match layout spacing, typography, and asset formatting with absolute visual precision.
+* **Evaluation:** Scored 100% against the production-level feature and frontend alignment criteria from industry mentors.
+* **Figma Translation:** Matched layout spacing, typography, and asset formatting to the mockups.
 
 ---
 
 ### 📈 GitHub Status & Navigation
-* 📦 **[Check out the Pygame codebase](./)** to see local state loops and vector mechanics.
+* 📦 **[Pygame codebase](https://github.com/mleahy79/starfighter)** to see local state loops and vector mechanics.
 * 🛡️ **Try to break my live portfolio chat** — it welcomes your best jailbreaks.
